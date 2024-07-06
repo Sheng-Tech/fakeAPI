@@ -46,7 +46,7 @@
             "price": "$4500.00",
             "Description": "consola portatil, 16 Gb de RAM",
             "category": "consolas",
-            "id": 1
+            "id": 6
         },
         {
             "img": "https://revistasociosams.com/wp-content/uploads/2021/03/control-inalambrico-Xbox%E2%80%8B-1.png",
@@ -54,7 +54,7 @@
             "price": "$950.00",
             "Description": "Control Xbox serie One",
             "category": "consolas",
-            "id": 2
+            "id": 7
         },
         {
             "img": "https://www.incentivosblackhawk.com.mx/wp-content/uploads/2022/05/Steam.png",
@@ -62,7 +62,7 @@
             "price": "$200.00",
             "Description": "steam card 200 pelucholares",
             "category": "consolas",
-            "id": 3
+            "id": 8
         }
     ]
 }
