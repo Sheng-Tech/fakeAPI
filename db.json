@@ -1,68 +1,52 @@
 {
     "product": [
         {
-            "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
-            "name": "Trooper taza",
-            "price": "$60.00",
-            "Description": "Taza casco Trooper",
-            "category": "starwars",
+            "img": "https://geekindustry.com.mx/wp-content/uploads/2024/03/KEY-DBZ-01_01.webp",
+            "name": "Llavero Metálico",
+            "price": "$199.00",
+            "Description": "Llavero Metálico Doble Trunks Y Goten Fusión Dragon Ball Z Geek Industry",
+            "category": "llaveros",
             "id": 1
         },
         {
-            "img": "https://cdn1.coppel.com/images/catalog/mkp/1773/5000/17733590-1.jpg",
-            "name": "Funko Vader",
-            "price": "$60.00",
-            "Description": "Funko coleccionable Darth vader",
-            "category": "starwars",
+            "img": "https://geekindustry.com.mx/wp-content/uploads/2024/06/MANDALA-009_01.png",
+            "name": "Mandalas Libro One Piece",
+            "price": "$169.00",
+            "Description": "Mandalas Libro Para Colorear Anti Estres One Piece Geek Industry",
+            "category": "libros",
             "id": 2
         },
         {
-            "img": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12N6pr.img?w=500&h=500&m=6",
-            "name": "Grogu (Baby Yoda)",
-            "price": "$100.00",
-            "Description": "Grogu peluche electrónico",
-            "category": "starwars",
+            "img": "https://geekindustry.com.mx/wp-content/uploads/2022/08/7503035777341-4.webp",
+            "name": "House Targaryen",
+            "price": "$129.00",
+            "Description": "Llavero House Targaryen Game Of Thrones Geek Industry",
+            "category": "llaveros",
             "id": 3
         },
         {
-            "img": "https://cdn.shopify.com/s/files/1/0563/9831/5692/files/luke-skywalker-lightsaber-hilt.png?v=1656863305",
-            "name": "Lightsaber",
-            "price": "$3000.00",
-            "Description": "Sable de luz para duelos",
-            "category": "starwars",
+            "img": "https://geekindustry.com.mx/wp-content/uploads/2024/06/MANDALA-007_01.png",
+            "name": "Mandalas Libro Dragon Ball Z",
+            "price": "$169.00",
+            "Description": "Mandalas Libro Para Colorear Anti Estres Dragon Ball Z Geek Industry",
+            "category": "libros",
             "id": 4
         },
         {
-            "img": "https://tooys.mx/media/wysiwyg/Darth_Vader-estatua-premium-format-por-sideshow-19.png",
-            "name": "Darth Vader",
-            "price": "$450.00",
-            "Description": "DarDarth  Vader figura de coleción",
-            "category": "starwars",
+            "img": "https://geekindustry.com.mx/wp-content/uploads/2022/10/7503035777839-2.webp",
+            "name": "Taza Cheese Jerry",
+            "price": "$189.00",
+            "Description": "Taza Cheese Jerry Wb Tom And Jerry Geek Industry",
+            "category": "tazas",
             "id": 5
         },
         {
-            "img": "https://www.cibermoda.mx/assets/images/craft_images/productos/Consola-Retro-Portatil-X12-Plus-pantalla-7-pulgadas-color-rojo-azul-joystick.webp",
-            "name": "X12 Plus",
-            "price": "$4500.00",
-            "Description": "consola portatil, 16 Gb de RAM",
-            "category": "consolas",
+            "img": "https://geekindustry.com.mx/wp-content/uploads/2022/10/7503035777655-2.webp",
+            "name": "Taza Game Of Thrones",
+            "price": "$179.00",
+            "Description": "Taza Game Of Thrones Hear Me Roar",
+            "category": "tazas",
             "id": 6
-        },
-        {
-            "img": "https://revistasociosams.com/wp-content/uploads/2021/03/control-inalambrico-Xbox%E2%80%8B-1.png",
-            "name": "Control Xbox One",
-            "price": "$950.00",
-            "Description": "Control Xbox serie One",
-            "category": "consolas",
-            "id": 7
-        },
-        {
-            "img": "https://www.incentivosblackhawk.com.mx/wp-content/uploads/2022/05/Steam.png",
-            "name": "Steam Card",
-            "price": "$200.00",
-            "Description": "steam card 200 pelucholares",
-            "category": "consolas",
-            "id": 8
         }
     ]
 }
