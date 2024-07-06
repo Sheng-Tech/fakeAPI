@@ -63,62 +63,6 @@
             "Description": "steam card 200 pelucholares",
             "category": "consolas",
             "id": 3
-        },
-        {
-            "img": "https://www.techpowerup.com/review/scuf-impact-controller-ps4-pc/images/small.png",
-            "name": "Control usb",
-            "price": "$500.00",
-            "Description": "Control de china",
-            "category": "consolas",
-            "id": 4
-        },
-        {
-            "img": "https://virtumaniacos.com/wp-content/uploads/2022/03/playstation-vr-visor.webp",
-            "name": "Oculus Quest 2 ",
-            "price": "$4500.00",
-            "Description": "Su versatilidad nos va a permitir usarlas en formato Standalone, es decir no depende de ningún otro elemento como cámaras o hardware externo, y esto las ha convertido el las gafas VR más vendidas desde 2020. Incluso puedes conectarlas a un ordenador (opcional) por cable o por wifi para jugar a juegos y usar aplicaciones aún más exigentes. ",
-            "category": "consolas",
-            "id": 5
-        },
-        {
-            "img": "https://otakutienda.com/cdn/shop/products/IMG_5186_580x.png?v=1644943571",
-            "name": "Pikachu Itachi  edition",
-            "price": "$500.00",
-            "Description": "Edición especial Pikachu Itachi  anbu",
-            "category": "diversos",
-            "id": 1
-        },
-        {
-            "img": "https://ggezstore.net/wp-content/uploads/2021/12/DEADPOOL-PIKACHU-e1640658722195.png",
-            "name": "Pikachu Deadpool",
-            "price": "$250.00",
-            "Description": "Pikachu edición deadpool",
-            "category": "diversos",
-            "id": 2
-        },
-        {
-            "img": "https://cdn.shopify.com/s/files/1/2437/4099/products/spider-man_marvel_silo_480x672.png?v=1649713239",
-            "name": "Spiderman Hot Toys",
-            "price": "$660.00",
-            "Description": "Hot Toys CosRider: Marvel Spider Man Far From Home - Spider Man — Distrito Max",
-            "category": "diversos",
-            "id": 3
-        },
-        {
-            "img": "https://www.panupli.es/3364-large_default/funko-pop-es-dla-gandalf-montado-en-gwaihir.jpg",
-            "name": "Funko Gandalf en Gwaihir",
-            "price": "$600.00",
-            "Description": "Colecciona el Funko POP de Gandalf montado en el águila Gwaihir de las increíbles películas de El Señor de los Anillos",
-            "category": "diversos",
-            "id": 4
-        },
-        {
-            "img": "https://lemongamesmx.com/cdn/shop/products/fun55641-dragon-ball-z-cell-first-form-glow-in-the-dark-pop-vinyl-figure-popcultcha-01_480x480.png?v=1661980008",
-            "name": "Cell DBZ",
-            "price": "$450.00",
-            "Description": "Cell primera forma, retroiluminado",
-            "category": "diversos",
-            "id": 5
         }
     ]
 }
