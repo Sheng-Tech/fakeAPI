@@ -4,7 +4,7 @@
             "img": "https://geekindustry.com.mx/wp-content/uploads/2024/03/KEY-DBZ-01_01.webp",
             "name": "Llavero Metálico",
             "price": "$199.00",
-            "Description": "Llavero Metálico Doble Trunks Y Goten Fusión Dragon Ball Z Geek Industry",
+            "description": "Llavero Metálico Doble Trunks Y Goten Fusión Dragon Ball Z Geek Industry",
             "category": "llaveros",
             "id": 1
         },
@@ -12,7 +12,7 @@
             "img": "https://geekindustry.com.mx/wp-content/uploads/2024/06/MANDALA-009_01.png",
             "name": "Mandalas Libro One Piece",
             "price": "$169.00",
-            "Description": "Mandalas Libro Para Colorear Anti Estres One Piece Geek Industry",
+            "description": "Mandalas Libro Para Colorear Anti Estres One Piece Geek Industry",
             "category": "libros",
             "id": 2
         },
@@ -20,7 +20,7 @@
             "img": "https://geekindustry.com.mx/wp-content/uploads/2022/08/7503035777341-4.webp",
             "name": "House Targaryen",
             "price": "$129.00",
-            "Description": "Llavero House Targaryen Game Of Thrones Geek Industry",
+            "description": "Llavero House Targaryen Game Of Thrones Geek Industry",
             "category": "llaveros",
             "id": 3
         },
@@ -28,7 +28,7 @@
             "img": "https://geekindustry.com.mx/wp-content/uploads/2024/06/MANDALA-007_01.png",
             "name": "Mandalas Libro Dragon Ball Z",
             "price": "$169.00",
-            "Description": "Mandalas Libro Para Colorear Anti Estres Dragon Ball Z Geek Industry",
+            "description": "Mandalas Libro Para Colorear Anti Estres Dragon Ball Z Geek Industry",
             "category": "libros",
             "id": 4
         },
@@ -36,7 +36,7 @@
             "img": "https://geekindustry.com.mx/wp-content/uploads/2022/10/7503035777839-2.webp",
             "name": "Taza Cheese Jerry",
             "price": "$189.00",
-            "Description": "Taza Cheese Jerry Wb Tom And Jerry Geek Industry",
+            "description": "Taza Cheese Jerry Wb Tom And Jerry Geek Industry",
             "category": "tazas",
             "id": 5
         },
@@ -44,7 +44,7 @@
             "img": "https://geekindustry.com.mx/wp-content/uploads/2022/10/7503035777655-2.webp",
             "name": "Taza Game Of Thrones",
             "price": "$179.00",
-            "Description": "Taza Game Of Thrones Hear Me Roar",
+            "description": "Taza Game Of Thrones Hear Me Roar",
             "category": "tazas",
             "id": 6
         }
